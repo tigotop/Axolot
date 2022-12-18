@@ -20,6 +20,6 @@ We only store your Discord **username** and **user id** for distinguish you from
 
 All collected data *(username and user id)* is protected and not used for purposes outside the bot or Discord. 
 
-The bot **doesn't** read the content of your messages sent on the servers where the bot is present, it just reads the message that received its prefix at the beginning **(a-)**. 
+The bot **doesn't** read the content of your messages sent on the servers where the bot is present, he only reads the message that have its prefix **(a-)** at the beginning. 
 
 If you want to request the deletion of your data, send a Private Message to the user **Thiago Francisco#6766** or contact me by email **bitenthiago538@gmail.com**
